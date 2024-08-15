@@ -1,0 +1,3 @@
+santiago = 11
+brissa = 5
+omar = 4
